@@ -1,4 +1,4 @@
-#Matheus Vinícius
+
 limite1 = int(input("Digite o primeiro número: "))
 limite2 = int(input("Digite o segundo número: "))
 
